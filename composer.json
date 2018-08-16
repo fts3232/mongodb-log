@@ -3,7 +3,6 @@
     "description": "laravel 5 mongodb log",
     "type": "package",
     "license": "MIT",
-    "version":"1.0",
     "keywords":[
         "laravel",
         "mongodb",
